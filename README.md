@@ -1,6 +1,6 @@
 <!-- HEADER IMAGE -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/stojanco-velkovski/stojanco-velkovski/main/assets/sv_logo.png" />
+
 
 </p>
 
