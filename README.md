@@ -93,8 +93,6 @@
 ---
 
 ### 📫 Let's Connect
-
-- 📧 Email: [velkovskistojanco@gmail.com](mailto:velkovskistojanco@gmail.com)
 - 🔗 LinkedIn: [linkedin.com/in/stojanco-velkovski-b5198a20b](https://www.linkedin.com/in/stojanco-velkovski-b5198a20b/)
 - 🌐 Portfolio: [stojancovelkovski.netlify.app](https://stojancovelkovski.netlify.app/)
 
