@@ -1,6 +1,7 @@
 <!-- HEADER IMAGE -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/stojanco-velkovski/stojanco-velkovski/main/assets/sv_logo.png" alt="Stojanco Velkovski Logo" width="250"/>
+  <img src="https://raw.githubusercontent.com/stojanco-velkovski/stojanco-velkovski/main/assets/sv_logo.png" />
+
 </p>
 
 <h1 align="center"><strong>Stojancho Velkovski</strong></h1>
